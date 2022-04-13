@@ -7,7 +7,7 @@ Our project to learn and manifest reinforcement learning projects.
 
 ## Projects
 
-#### Tic-Tac-Toe (in development):
+#### [Tic-Tac-Toe](https://github.com/United-AI/smart_tictactoe) (in development):
 Our first project is to develop a simple and intelligent agent that can play tic-tac-toe.
 
 Tasks:
